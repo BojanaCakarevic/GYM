@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0A1737;
+    height: 100vh;
+    margin: 0;
+}
+
+.start {
+    border: solid;
+    background-color: #CED0DD;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
